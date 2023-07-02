@@ -1,0 +1,72 @@
+.BarraEsquerda {
+  
+    width: 16vw;
+   border: 1px solid #000;
+    
+  }
+
+  .icone {
+    margin: 5px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  
+  }
+
+  .icone:hover {
+
+    background-color: gray;
+    padding: 10px;
+    border-radius: 30px;
+  
+  }
+
+
+  .menu {
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+   margin: 10px 0px 10px 10px;
+   font-size: x-large;
+   padding: 20px;
+  }
+
+
+  .Iconimg {
+
+    height: 25px;
+    width: 25px;
+    overflow: hidden;
+    border-radius: 50%;
+   
+ 
+
+  }
+
+  .perfil {
+
+    margin: 0px 0px 110px 0px;
+    padding: 25px;
+  }
+
+  .perfil:hover {
+    background-color: gray;
+    border-radius: 30px;
+    padding: 10px;
+
+
+  }
+
+
+  .logo {
+
+    width: 150px;
+    margin: 20px;
+
+
+  }
+
+
+  

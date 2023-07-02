@@ -1,0 +1,113 @@
+.BarraDireita {
+    background: #FFFFFF;
+    width: 25vw;
+    height: 55vh;
+    margin: 70px 140px 10px 20px;
+    border:1px solid #000;
+    font-style: normal;
+    
+
+  }
+
+  .sugestions {
+
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font: bold;
+    font-size: medium;
+
+  }
+
+.autorsugestao {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+ 
+}
+
+
+
+.imgautor {
+
+  width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px ;
+
+
+}
+
+.imgautor:hover {
+
+  width: 55px;
+    height: 55px;
+    
+
+
+}
+
+.nomeautor {
+
+  padding: 30px 190px 00px 0px;
+  font-size: larger;
+ 
+}
+
+
+.nomeautor:hover {
+
+  font-style: bold;
+ 
+}
+
+.mudar {
+  margin: 40px 20px 0px 0px ;
+  color:#4242f8;
+
+}
+
+.mudar:hover {
+  color: #000;
+
+}
+
+  .imgsugestao {
+
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 10px 0px 0px 60px;
+  
+    
+
+
+  }
+
+  .arroba {
+
+    font-size: large;
+    margin-bottom: 40px;
+    display: inline-flex;
+    justify-content: left;
+
+  }
+
+.seguir {
+
+ color:#4242f8;
+ justify-content: right;
+ margin-left: 30px;
+
+}
+
+.seguir:hover {
+
+  color:black;
+  justify-content: right;
+  margin-left: 30px;
+ 
+ }
